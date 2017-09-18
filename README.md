@@ -1,3 +1,5 @@
+https://www.cnblogs.com/tonycody/p/3257601.html
+
 【常规】
 1. Ctrl+Shift + Enter，语句完成
 2. “！”，否定完成，输入表达式时按 “！”键
@@ -79,61 +81,65 @@
 78. Ctrl+Backspace，按单词删除
 79. Ctrl+"+/-"，当前方法展开、折叠
 80. Ctrl+Shift+"+/-"，全部展开、折叠
-81. 【调试部分、编译】
-82. Ctrl+F2，停止
-83. Alt+Shift+F9，选择 Debug
-84. Alt+Shift+F10，选择 Run
-85. Ctrl+Shift+F9，编译
-86. Ctrl+Shift+F10，运行
-87. Ctrl+Shift+F8，查看断点
-88. F8，步过
-89. F7，步入
-90. Shift+F7，智能步入
-91. Shift+F8，步出
-92. Alt+Shift+F8，强制步过
-93. Alt+Shift+F7，强制步入
-94. Alt+F9，运行至光标处
-95. Ctrl+Alt+F9，强制运行至光标处
-96. F9，恢复程序
-97. Alt+F10，定位到断点
-98. Ctrl+F8，切换行断点
-99. Ctrl+F9，生成项目
-100. Alt+1，项目
-101. Alt+2，收藏
-102. Alt+6，TODO
-103. Alt+7，结构
-104. Ctrl+Shift+C，复制路径
-105. Ctrl+Alt+Shift+C，复制引用，必须选择类名
-106. Ctrl+Alt+Y，同步
-107. Ctrl+~，快速切换方案（界面外观、代码风格、快捷键映射等菜单）
-108. Shift+F12，还原默认布局
-109. Ctrl+Shift+F12，隐藏/恢复所有窗口
-110. Ctrl+F4，关闭
-111. Ctrl+Shift+F4，关闭活动选项卡
-112. Ctrl+Tab，转到下一个拆分器
-113. Ctrl+Shift+Tab，转到上一个拆分器
-114. 【重构】
-115. Ctrl+Alt+Shift+T，弹出重构菜单
-116. Shift+F6，重命名
-117. F6，移动
-118. F5，复制
-119. Alt+Delete，安全删除
-120. Ctrl+Alt+N，内联
-121. 【查找】
-122. Ctrl+F，查找
-123. Ctrl+R，替换
-124. F3，查找下一个
-125. Shift+F3，查找上一个
-126. Ctrl+Shift+F，在路径中查找
-127. Ctrl+Shift+R，在路径中替换
-128. Ctrl+Shift+S，搜索结构
-129. Ctrl+Shift+M，替换结构
-130. Alt+F7，查找用法
-131. Ctrl+Alt+F7，显示用法
-132. Ctrl+F7，在文件中查找用法
-133. Ctrl+Shift+F7，在文件中高亮显示用法
-134. 【VCS】
-135. Alt+~，VCS 操作菜单
-136. Ctrl+K，提交更改
-137. Ctrl+T，更新项目
-138. Ctrl+Alt+Shift+D，显示变化
+
+【调试部分、编译】
+1. Ctrl+F2，停止
+2. Alt+Shift+F9，选择 Debug
+3. Alt+Shift+F10，选择 Run
+4. Ctrl+Shift+F9，编译
+5. Ctrl+Shift+F10，运行
+6. Ctrl+Shift+F8，查看断点
+7. F8，步过
+8. F7，步入
+9. Shift+F7，智能步入
+10. Shift+F8，步出
+11. Alt+Shift+F8，强制步过
+12. Alt+Shift+F7，强制步入
+13. Alt+F9，运行至光标处
+14. Ctrl+Alt+F9，强制运行至光标处
+15. F9，恢复程序
+16. Alt+F10，定位到断点
+17. Ctrl+F8，切换行断点
+18. Ctrl+F9，生成项目
+19. Alt+1，项目
+20. Alt+2，收藏
+21. Alt+6，TODO
+22. Alt+7，结构
+23. Ctrl+Shift+C，复制路径
+24. Ctrl+Alt+Shift+C，复制引用，必须选择类名
+25. Ctrl+Alt+Y，同步
+26. Ctrl+~，快速切换方案（界面外观、代码风格、快捷键映射等菜单）
+27. Shift+F12，还原默认布局
+28. Ctrl+Shift+F12，隐藏/恢复所有窗口
+29. Ctrl+F4，关闭
+30. Ctrl+Shift+F4，关闭活动选项卡
+31. Ctrl+Tab，转到下一个拆分器
+32. Ctrl+Shift+Tab，转到上一个拆分器
+
+【重构】
+1. Ctrl+Alt+Shift+T，弹出重构菜单
+2. Shift+F6，重命名
+3. F6，移动
+4. F5，复制
+5. Alt+Delete，安全删除
+6. Ctrl+Alt+N，内联
+
+【查找】
+1. Ctrl+F，查找
+2. Ctrl+R，替换
+3. F3，查找下一个
+4. Shift+F3，查找上一个
+5. Ctrl+Shift+F，在路径中查找
+6. Ctrl+Shift+R，在路径中替换
+7. Ctrl+Shift+S，搜索结构
+8. Ctrl+Shift+M，替换结构
+9. Alt+F7，查找用法
+10. Ctrl+Alt+F7，显示用法
+11. Ctrl+F7，在文件中查找用法
+12. Ctrl+Shift+F7，在文件中高亮显示用法
+
+【VCS】
+1. Alt+~，VCS 操作菜单
+2. Ctrl+K，提交更改
+3. Ctrl+T，更新项目
+4. Ctrl+Alt+Shift+D，显示变化
