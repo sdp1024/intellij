@@ -1,6 +1,9 @@
-https://www.cnblogs.com/tonycody/p/3257601.html
+###中文教程
+https://youmeek.gitbooks.io/intellij-idea-tutorial/content/
 
-【常规】
+###常用快捷键:
+
+####【常规】
 1. Ctrl+Shift + Enter，语句完成
 2. “！”，否定完成，输入表达式时按 “！”键
 3. Ctrl+E，最近的文件
@@ -82,7 +85,7 @@ https://www.cnblogs.com/tonycody/p/3257601.html
 79. Ctrl+"+/-"，当前方法展开、折叠
 80. Ctrl+Shift+"+/-"，全部展开、折叠
 
-【调试部分、编译】
+####【调试部分、编译】
 1. Ctrl+F2，停止
 2. Alt+Shift+F9，选择 Debug
 3. Alt+Shift+F10，选择 Run
@@ -116,7 +119,7 @@ https://www.cnblogs.com/tonycody/p/3257601.html
 31. Ctrl+Tab，转到下一个拆分器
 32. Ctrl+Shift+Tab，转到上一个拆分器
 
-【重构】
+####【重构】
 1. Ctrl+Alt+Shift+T，弹出重构菜单
 2. Shift+F6，重命名
 3. F6，移动
@@ -124,7 +127,7 @@ https://www.cnblogs.com/tonycody/p/3257601.html
 5. Alt+Delete，安全删除
 6. Ctrl+Alt+N，内联
 
-【查找】
+####【查找】
 1. Ctrl+F，查找
 2. Ctrl+R，替换
 3. F3，查找下一个
@@ -138,8 +141,11 @@ https://www.cnblogs.com/tonycody/p/3257601.html
 11. Ctrl+F7，在文件中查找用法
 12. Ctrl+Shift+F7，在文件中高亮显示用法
 
-【VCS】
+####【VCS】
 1. Alt+~，VCS 操作菜单
 2. Ctrl+K，提交更改
 3. Ctrl+T，更新项目
 4. Ctrl+Alt+Shift+D，显示变化
+
+####转自:
+https://www.cnblogs.com/tonycody/p/3257601.html
