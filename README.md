@@ -127,7 +127,7 @@ https://youmeek.gitbooks.io/intellij-idea-tutorial/content/
 5. Alt+Delete，安全删除
 6. Ctrl+Alt+N，内联
 
-#### 查找】
+#### 【查找】
 1. Ctrl+F，查找
 2. Ctrl+R，替换
 3. F3，查找下一个
@@ -141,7 +141,7 @@ https://youmeek.gitbooks.io/intellij-idea-tutorial/content/
 11. Ctrl+F7，在文件中查找用法
 12. Ctrl+Shift+F7，在文件中高亮显示用法
 
-#### VCS】
+#### 【VCS】
 1. Alt+~，VCS 操作菜单
 2. Ctrl+K，提交更改
 3. Ctrl+T，更新项目
